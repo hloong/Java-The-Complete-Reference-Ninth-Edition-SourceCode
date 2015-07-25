@@ -1,5 +1,5 @@
-# Java-The-Complete-Reference-Ninth-Edition-SourceCode
-Java-The-Complete-Reference-Ninth-Edition-SourceCode
+
+>Java-The-Complete-Reference-Ninth-Edition-SourceCode
 
 These files contain the code listings for
 
@@ -14,5 +14,5 @@ in the same order as they appear in the book.
 Simply edit the appropriate file to extract the
 listing in which you are interested.
 
-Tips:
+>Tips:
 You can open the ".lst" files with Sublime Text
