@@ -13,3 +13,6 @@ Within each chapter file, the listings are stored
 in the same order as they appear in the book.
 Simply edit the appropriate file to extract the
 listing in which you are interested.
+
+Tips:
+You can open the ".lst" files with Sublime Text
